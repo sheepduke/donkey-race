@@ -1,0 +1,3 @@
+* Overview
+
+Simulator of a board game Mit Quacks & Co. nach Quedlinburg.
